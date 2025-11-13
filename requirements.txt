@@ -1,0 +1,36 @@
+# --------------------------------------------
+# Requisitos para Pairs Trading with Kalman Filters
+# --------------------------------------------
+
+# Manipulación y análisis de datos
+pandas==2.3.3
+numpy==2.2.6
+scipy==1.15.3
+statsmodels==0.14.5
+
+# Machine Learning / Modelado
+scikit-learn==1.7.2
+
+# Descarga de datos financieros
+yfinance==0.2.66
+
+# Visualización
+matplotlib==3.10.7
+seaborn==0.13.2
+
+# Utilidades generales
+tqdm==4.67.1
+tabulate==0.9.0
+requests==2.32.5
+multitasking==0.0.12
+peewee==3.18.3
+beautifulsoup4==4.14.2
+
+# Soporte de fechas y zonas horarias
+python-dateutil==2.9.0.post0
+pytz==2025.2
+tzdata==2025.2
+
+# Tipos y compatibilidad
+typing-extensions==4.15.0
+
