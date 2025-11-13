@@ -1,4 +1,6 @@
-Pairs Trading with Cointegration & Kalman Filters
+# Pairs Trading with Cointegration & Kalman Filters
+
+
  
 
 Project Overview
@@ -7,6 +9,7 @@ Students will develop a statistical arbitrage strategy using pairs trading. The 
  
 
 Objectives
+
 Systematically identify cointegrated pairs using statistical tests
 Understand and implement Kalman filters as sequential decision processes for both hedge ratios and trading signals
 Develop market-neutral trading strategies with dynamic hedging and VECM from Johansen's test
@@ -15,6 +18,7 @@ Create clean and documented code
  
 
 Key Concepts
+
 Cointegration: Long-run equilibrium relationship between two time series
 Mean Reversion: Exploitation of temporary deviations from equilibrium
 Dynamic Hedging: Adjusting hedge ratios over time using Kalman filters
@@ -22,6 +26,9 @@ VECM: Create dynamic error correction models, stabilized using another Kalman fi
 Sequential Decision Process: Real-time state estimation and optimal decision-making
 Market-Neutral Strategy: Zero systematic market exposure
 
+##  Requisitos Técnicos
+
+### Dependencias
+Instala todo con:
+```bash
 pip install -r requirements.txt
-
-
